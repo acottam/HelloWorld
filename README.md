@@ -6,7 +6,7 @@ This software is a simple Python program that prints a greeting to the terminal.
 
 My purpose for creating this software is to establish a reliable, repeatable workflow for writing, documenting, and publishing code — a process I will follow for each module throughout the course.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/063ecd90351b49798ae49406be98e6be)
 
 # Development Environment
 
